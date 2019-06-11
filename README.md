@@ -1,5 +1,14 @@
 # DevOps-Provisioning
 
+# Provisionin Support
+
+* Ansible
+* Pip
+* Celery ( via Pip )
+* Docker
+* Docker Compose
+* RabitMQ
+
 #Possible issues with Vagrant
 
  * conflicting dependencies fog-core (~> 1.43.0) and fog-core (= 1.45.0) vagrant
