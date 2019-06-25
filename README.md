@@ -9,6 +9,13 @@
 * Docker Compose
 * RabitMQ
 
+# Requeriements
+
+ * vagrant-hostmanager plugin for multi-hosts support.
+ ```
+ $vagrant plugin install vagrant-hostmanager
+ ```
+
 # Possible issues with Vagrant
 
  * conflicting dependencies fog-core (~> 1.43.0) and fog-core (= 1.45.0) vagrant
